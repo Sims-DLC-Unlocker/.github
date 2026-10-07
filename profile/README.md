@@ -7,7 +7,7 @@
 ## 🔗 Latest Release
 
 - **💾 Version 2.4.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Sims-DLC-Unlocker/.github/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
